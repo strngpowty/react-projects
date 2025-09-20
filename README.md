@@ -11,3 +11,8 @@ and value does not go below 0 .. ever.. very fancy, this project might take me t
 Simple Login Form with fields - name, email and passowrd, with regex validation for each field but... the code for each field seems redundant need to make that thing dynamic, followed in next project.
 
 ![Form App](./images/form.png)
+
+## 3. Form Dynamic
+Simple Login form same as previous one, but fields dynamically handled
+
+![Dynamic Form](./images/form-dynamic.png)
